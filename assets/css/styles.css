@@ -1,0 +1,38 @@
+body {
+	background: url("https://hdwallpaperwall.com/wp-content/uploads/2016/12/Anime-Panda-Free-Wallpaper-Background.jpg");
+	font-size: 18px;
+	line-height: 34px;
+	font-family:'Raleway', sans-serif;
+	color: #fff;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+
+    <div id="game">
+        <h1>Psychic Game</h1>
+        <p>What letter panda is thinking of</p>
+        <p>Wins: </p>
+        <p>Losses: </p>
+        <p>Guesses Left: </p>
+        <p>Your Guesses so far: </p>
+    </div>
+
+
+h1, p {
+	margin-bottom: 20px;
+}
+div{
+	margin: 20px;
+	padding: 10px;
+}
+h1{
+	font-family: 'Raleway', serif;
+	font-weight: 700;
+	font-size: 30px;
+	line-height: 49px;
+	border-bottom: 3px solid #ddd;
+	padding-bottom: 20px;
+}
